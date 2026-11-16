@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1794770097747,
+      "tag": "0000_bula_acessivel_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1794770867791,
+      "tag": "0001_fix_publication_guard",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1794770890115,
+      "tag": "0002_revoke_anon_definer_exec",
+      "breakpoints": true
+    }
+  ]
+}
